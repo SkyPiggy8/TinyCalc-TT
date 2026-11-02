@@ -1,0 +1,9 @@
+read_verilog src/project.v
+hierarchy -check -top tt_um_skypiggy8_tinycalc
+synth -noabc -top tt_um_skypiggy8_tinycalc
+dffunmap
+opt_clean
+check -assert
+stat
+write_json build/generic.json
+write_verilog -noattr build/generic.v

@@ -1,0 +1,22 @@
+{
+  "status": "NOT_TAPEOUT_READY",
+  "tile_um": [
+    161.0,
+    111.52
+  ],
+  "standard_cells": 469,
+  "standard_cell_area_um2": 4446.765,
+  "cell_area_fraction_of_tile": 0.2477,
+  "placement_max_y_um": 62.56,
+  "placement_overlap_check": "PASS",
+  "cell_library_commit": "ac7fb61f06e6470b94e8afdf7c25268f62fbd7b1",
+  "tile_source_commit": "b7b993ac507a3d0dd9c2c82c213ff6fab7d6dacc",
+  "full_calculator_signal_routing": "NOT_IMPLEMENTED",
+  "clock_tree": "NOT_IMPLEMENTED",
+  "power_tap_filler_antenna": "NOT_IMPLEMENTED",
+  "DRC": "NOT_RUN",
+  "LVS": "NOT_RUN",
+  "STA": "NOT_RUN",
+  "full_adder": "experimental explicit routes; not integrated into synthesized calculator netlist",
+  "minimum_area_proven": false
+}

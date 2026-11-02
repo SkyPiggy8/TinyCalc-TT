@@ -1,0 +1,2 @@
+gdstk==1.0.2
+yowasp-yosys==0.70.0.0.post1259

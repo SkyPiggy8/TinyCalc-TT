@@ -1,0 +1,1 @@
+PASS: 262144 exhaustive arithmetic cases, 8591564 busy cycles; pause/reset passed

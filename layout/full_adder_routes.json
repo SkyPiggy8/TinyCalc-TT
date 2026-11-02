@@ -1,0 +1,110 @@
+[
+  {
+    "net": "A",
+    "horizontal_met2_y_um": 5.44,
+    "pins": [
+      [
+        "xp",
+        "A"
+      ],
+      [
+        "nab",
+        "A"
+      ]
+    ]
+  },
+  {
+    "net": "B",
+    "horizontal_met2_y_um": 6.24,
+    "pins": [
+      [
+        "xp",
+        "B"
+      ],
+      [
+        "nab",
+        "B"
+      ]
+    ]
+  },
+  {
+    "net": "P",
+    "horizontal_met2_y_um": 7.040000000000001,
+    "pins": [
+      [
+        "xp",
+        "X"
+      ],
+      [
+        "xs",
+        "A"
+      ],
+      [
+        "npc",
+        "A"
+      ]
+    ]
+  },
+  {
+    "net": "CI",
+    "horizontal_met2_y_um": 7.840000000000001,
+    "pins": [
+      [
+        "xs",
+        "B"
+      ],
+      [
+        "npc",
+        "B"
+      ]
+    ]
+  },
+  {
+    "net": "NAB",
+    "horizontal_met2_y_um": 8.64,
+    "pins": [
+      [
+        "nab",
+        "Y"
+      ],
+      [
+        "nc",
+        "A"
+      ]
+    ]
+  },
+  {
+    "net": "NPC",
+    "horizontal_met2_y_um": 9.440000000000001,
+    "pins": [
+      [
+        "npc",
+        "Y"
+      ],
+      [
+        "nc",
+        "B"
+      ]
+    ]
+  },
+  {
+    "net": "S",
+    "horizontal_met2_y_um": 10.240000000000002,
+    "pins": [
+      [
+        "xs",
+        "X"
+      ]
+    ]
+  },
+  {
+    "net": "CO",
+    "horizontal_met2_y_um": 11.040000000000001,
+    "pins": [
+      [
+        "nc",
+        "Y"
+      ]
+    ]
+  }
+]

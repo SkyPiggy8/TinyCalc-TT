@@ -1,0 +1,7 @@
+PASS: official SKY130 YAML v6 and docs checks
+PASS: required root files present
+Official template commit: a42e6662fab316e93b4e26399e21d41664a460b7
+Top: tt_um_skypiggy8_tinycalc
+GDS action: TinyTapeout/tt-gds-action@ttsky26d
+Remote upload: BLOCKED - repository not available and browser not signed in
+Online GDS/precheck/gate-level jobs: NOT RUN

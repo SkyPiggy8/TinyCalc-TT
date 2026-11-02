@@ -1,0 +1,12703 @@
+{
+  "$auto$ff.cc:337:slice$339": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        31
+      ],
+      "Q": [
+        32
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$378": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        33
+      ],
+      "Q": [
+        34
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$379": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        35
+      ],
+      "Q": [
+        36
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$380": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        37
+      ],
+      "Q": [
+        38
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$381": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        39
+      ],
+      "Q": [
+        40
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$382": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        41
+      ],
+      "Q": [
+        42
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$383": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        43
+      ],
+      "Q": [
+        44
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$384": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        45
+      ],
+      "Q": [
+        46
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$385": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        47
+      ],
+      "Q": [
+        48
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$392": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        49
+      ],
+      "Q": [
+        50
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$393": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        51
+      ],
+      "Q": [
+        52
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$394": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        53
+      ],
+      "Q": [
+        54
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$395": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        55
+      ],
+      "Q": [
+        56
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$396": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        57
+      ],
+      "Q": [
+        58
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$397": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        59
+      ],
+      "Q": [
+        60
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$398": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        61
+      ],
+      "Q": [
+        62
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$399": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        63
+      ],
+      "Q": [
+        64
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$440": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        65
+      ],
+      "Q": [
+        66
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$441": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        67
+      ],
+      "Q": [
+        68
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$442": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        69
+      ],
+      "Q": [
+        70
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$443": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        71
+      ],
+      "Q": [
+        72
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$444": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        73
+      ],
+      "Q": [
+        74
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$445": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        75
+      ],
+      "Q": [
+        76
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$446": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        77
+      ],
+      "Q": [
+        78
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$447": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        79
+      ],
+      "Q": [
+        80
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$448": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        81
+      ],
+      "Q": [
+        82
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$449": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        83
+      ],
+      "Q": [
+        84
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$450": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        85
+      ],
+      "Q": [
+        86
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$451": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        87
+      ],
+      "Q": [
+        88
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$452": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        89
+      ],
+      "Q": [
+        90
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$453": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        91
+      ],
+      "Q": [
+        92
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$454": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        93
+      ],
+      "Q": [
+        94
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$455": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        95
+      ],
+      "Q": [
+        96
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$471": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        97
+      ],
+      "Q": [
+        27
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:337:slice$472": {
+    "cell": "sky130_fd_sc_hd__dfxtp_1",
+    "connections": {
+      "CLK": [
+        29
+      ],
+      "D": [
+        98
+      ],
+      "Q": [
+        26
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1318": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        94
+      ],
+      "B": [
+        99
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        101
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1322": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        92
+      ],
+      "B": [
+        102
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        103
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1326": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        90
+      ],
+      "B": [
+        104
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        105
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1330": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        88
+      ],
+      "B": [
+        106
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        107
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1334": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        86
+      ],
+      "B": [
+        108
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        109
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1338": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        84
+      ],
+      "B": [
+        110
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        111
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1342": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        82
+      ],
+      "B": [
+        112
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        113
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1346": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        80
+      ],
+      "B": [
+        114
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        115
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1350": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        78
+      ],
+      "B": [
+        116
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        117
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1354": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        76
+      ],
+      "B": [
+        118
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        119
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1358": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        74
+      ],
+      "B": [
+        120
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        121
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1362": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        72
+      ],
+      "B": [
+        122
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        123
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1366": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        70
+      ],
+      "B": [
+        124
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        125
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1370": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        68
+      ],
+      "B": [
+        126
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        127
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1374": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        66
+      ],
+      "B": [
+        128
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        129
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1378": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        62
+      ],
+      "B": [
+        8
+      ],
+      "S": [
+        130
+      ],
+      "X": [
+        131
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1382": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        60
+      ],
+      "B": [
+        7
+      ],
+      "S": [
+        130
+      ],
+      "X": [
+        132
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1386": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        58
+      ],
+      "B": [
+        6
+      ],
+      "S": [
+        130
+      ],
+      "X": [
+        133
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1390": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        56
+      ],
+      "B": [
+        5
+      ],
+      "S": [
+        130
+      ],
+      "X": [
+        134
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1394": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        54
+      ],
+      "B": [
+        4
+      ],
+      "S": [
+        130
+      ],
+      "X": [
+        135
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1398": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        52
+      ],
+      "B": [
+        3
+      ],
+      "S": [
+        130
+      ],
+      "X": [
+        136
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1402": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        50
+      ],
+      "B": [
+        2
+      ],
+      "S": [
+        130
+      ],
+      "X": [
+        137
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1406": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        46
+      ],
+      "B": [
+        138
+      ],
+      "S": [
+        139
+      ],
+      "X": [
+        140
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1410": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        44
+      ],
+      "B": [
+        141
+      ],
+      "S": [
+        139
+      ],
+      "X": [
+        142
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1414": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        42
+      ],
+      "B": [
+        143
+      ],
+      "S": [
+        139
+      ],
+      "X": [
+        144
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1418": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        40
+      ],
+      "B": [
+        145
+      ],
+      "S": [
+        139
+      ],
+      "X": [
+        146
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1422": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        38
+      ],
+      "B": [
+        147
+      ],
+      "S": [
+        139
+      ],
+      "X": [
+        148
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1426": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        36
+      ],
+      "B": [
+        149
+      ],
+      "S": [
+        139
+      ],
+      "X": [
+        150
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1430": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        34
+      ],
+      "B": [
+        151
+      ],
+      "S": [
+        139
+      ],
+      "X": [
+        152
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1434": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        32
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        154
+      ],
+      "X": [
+        155
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1438": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        48
+      ],
+      "B": [
+        156
+      ],
+      "S": [
+        139
+      ],
+      "X": [
+        157
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1442": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        64
+      ],
+      "B": [
+        9
+      ],
+      "S": [
+        130
+      ],
+      "X": [
+        158
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1446": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        96
+      ],
+      "B": [
+        159
+      ],
+      "S": [
+        100
+      ],
+      "X": [
+        160
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1450": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        27
+      ],
+      "B": [
+        161
+      ],
+      "S": [
+        162
+      ],
+      "X": [
+        163
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:597:unmap_ce$1454": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        26
+      ],
+      "B": [
+        164
+      ],
+      "S": [
+        28
+      ],
+      "X": [
+        165
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1320": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        101
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        93
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1324": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        103
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        91
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1328": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        105
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        89
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1332": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        107
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        87
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1336": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        109
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        85
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1340": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        111
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        83
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1344": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        113
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        81
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1348": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        115
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        79
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1352": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        117
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        77
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1356": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        119
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        75
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1360": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        121
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        73
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1364": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        123
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        71
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1368": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        125
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        69
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1372": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        127
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        67
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1376": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        129
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        65
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1380": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        131
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        61
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1384": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        132
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        59
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1388": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        133
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        57
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1392": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        134
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        55
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1396": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        135
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        53
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1400": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        136
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        51
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1404": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        137
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        49
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1408": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        140
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        45
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1412": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        142
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        43
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1416": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        144
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        41
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1420": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        146
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        39
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1424": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        148
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        37
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1428": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        150
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        35
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1432": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        152
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        33
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1436": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        155
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        31
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1440": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        157
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        47
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1444": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        158
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        63
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1448": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        160
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        95
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1452": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        163
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        97
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$ff.cc:619:unmap_srst$1456": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        165
+      ],
+      "S": [
+        30
+      ],
+      "X": [
+        98
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1280": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        40
+      ],
+      "Y": [
+        166
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1284": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        42
+      ],
+      "Y": [
+        167
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1286": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        44
+      ],
+      "Y": [
+        168
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1288": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        48
+      ],
+      "Y": [
+        169
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1290": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        46
+      ],
+      "Y": [
+        170
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1294": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        34
+      ],
+      "Y": [
+        171
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1296": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        22
+      ],
+      "Y": [
+        172
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1302": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        21
+      ],
+      "Y": [
+        173
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1304": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        19
+      ],
+      "Y": [
+        174
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1310": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        18
+      ],
+      "Y": [
+        175
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1314": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        26
+      ],
+      "Y": [
+        176
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$opt_expr.cc:607:replace_const_cells$1316": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        32
+      ],
+      "Y": [
+        177
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1041": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        66
+      ],
+      "B": [
+        178
+      ],
+      "X": [
+        179
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1042": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        68
+      ],
+      "B": [
+        180
+      ],
+      "X": [
+        181
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1043": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        70
+      ],
+      "B": [
+        182
+      ],
+      "X": [
+        183
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1044": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        72
+      ],
+      "B": [
+        184
+      ],
+      "X": [
+        185
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1045": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        74
+      ],
+      "B": [
+        186
+      ],
+      "X": [
+        187
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1046": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        76
+      ],
+      "B": [
+        188
+      ],
+      "X": [
+        189
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1047": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        78
+      ],
+      "B": [
+        190
+      ],
+      "X": [
+        191
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1048": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        80
+      ],
+      "B": [
+        192
+      ],
+      "X": [
+        193
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1049": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        82
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        195
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1050": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        84
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        196
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1051": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        86
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        197
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1052": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        88
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        198
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1053": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        90
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        199
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1054": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        92
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        200
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1055": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        94
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        201
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1056": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        96
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        202
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1058": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        66
+      ],
+      "B": [
+        178
+      ],
+      "X": [
+        203
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1059": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        68
+      ],
+      "B": [
+        180
+      ],
+      "X": [
+        204
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1060": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        70
+      ],
+      "B": [
+        182
+      ],
+      "X": [
+        205
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1061": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        72
+      ],
+      "B": [
+        184
+      ],
+      "X": [
+        206
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1062": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        74
+      ],
+      "B": [
+        186
+      ],
+      "X": [
+        207
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1063": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        76
+      ],
+      "B": [
+        188
+      ],
+      "X": [
+        208
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1064": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        78
+      ],
+      "B": [
+        190
+      ],
+      "X": [
+        209
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1065": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        80
+      ],
+      "B": [
+        192
+      ],
+      "X": [
+        210
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1066": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        82
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        211
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1067": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        84
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        212
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1068": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        86
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        213
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1069": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        88
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        214
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1070": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        90
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        215
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1071": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        92
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        216
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1072": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        94
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        217
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1073": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        96
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        218
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1075": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        191
+      ],
+      "B": [
+        219
+      ],
+      "X": [
+        220
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1076": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        209
+      ],
+      "B": [
+        221
+      ],
+      "X": [
+        219
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1077": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        213
+      ],
+      "B": [
+        222
+      ],
+      "X": [
+        223
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1078": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        187
+      ],
+      "B": [
+        224
+      ],
+      "X": [
+        225
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1079": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        207
+      ],
+      "B": [
+        226
+      ],
+      "X": [
+        224
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1080": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        215
+      ],
+      "B": [
+        227
+      ],
+      "X": [
+        228
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1081": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        183
+      ],
+      "B": [
+        229
+      ],
+      "X": [
+        230
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1082": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        205
+      ],
+      "B": [
+        231
+      ],
+      "X": [
+        229
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1083": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        199
+      ],
+      "B": [
+        228
+      ],
+      "X": [
+        232
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1084": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        233
+      ],
+      "B": [
+        234
+      ],
+      "X": [
+        235
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1085": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        236
+      ],
+      "B": [
+        227
+      ],
+      "X": [
+        234
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1086": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        195
+      ],
+      "B": [
+        237
+      ],
+      "X": [
+        238
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1087": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        239
+      ],
+      "B": [
+        240
+      ],
+      "X": [
+        222
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1088": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        241
+      ],
+      "B": [
+        242
+      ],
+      "X": [
+        240
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1089": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        217
+      ],
+      "B": [
+        235
+      ],
+      "X": [
+        243
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1090": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        244
+      ],
+      "B": [
+        245
+      ],
+      "X": [
+        221
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1091": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        246
+      ],
+      "B": [
+        226
+      ],
+      "X": [
+        245
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1092": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        201
+      ],
+      "B": [
+        243
+      ],
+      "X": [
+        247
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1093": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        248
+      ],
+      "B": [
+        249
+      ],
+      "X": [
+        227
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1094": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        250
+      ],
+      "B": [
+        242
+      ],
+      "X": [
+        249
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1095": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        211
+      ],
+      "B": [
+        242
+      ],
+      "X": [
+        237
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1096": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        251
+      ],
+      "B": [
+        252
+      ],
+      "X": [
+        253
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1097": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        254
+      ],
+      "B": [
+        242
+      ],
+      "X": [
+        252
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1098": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        255
+      ],
+      "B": [
+        250
+      ],
+      "X": [
+        254
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1099": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        256
+      ],
+      "B": [
+        257
+      ],
+      "X": [
+        251
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1100": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        255
+      ],
+      "B": [
+        248
+      ],
+      "X": [
+        257
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1102": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        258
+      ],
+      "B": [
+        259
+      ],
+      "X": [
+        242
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1103": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        260
+      ],
+      "B": [
+        226
+      ],
+      "X": [
+        259
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1104": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        261
+      ],
+      "B": [
+        236
+      ],
+      "X": [
+        255
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1105": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        262
+      ],
+      "B": [
+        263
+      ],
+      "X": [
+        256
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1106": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        261
+      ],
+      "B": [
+        233
+      ],
+      "X": [
+        263
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1107": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        264
+      ],
+      "B": [
+        241
+      ],
+      "X": [
+        250
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1108": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        265
+      ],
+      "B": [
+        266
+      ],
+      "X": [
+        248
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1109": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        264
+      ],
+      "B": [
+        239
+      ],
+      "X": [
+        266
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1110": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        267
+      ],
+      "B": [
+        246
+      ],
+      "X": [
+        260
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1111": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        268
+      ],
+      "B": [
+        269
+      ],
+      "X": [
+        258
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1112": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        267
+      ],
+      "B": [
+        244
+      ],
+      "X": [
+        269
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1114": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        270
+      ],
+      "B": [
+        271
+      ],
+      "X": [
+        226
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1115": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        272
+      ],
+      "B": [
+        231
+      ],
+      "X": [
+        271
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1116": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        218
+      ],
+      "B": [
+        217
+      ],
+      "X": [
+        261
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1117": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        202
+      ],
+      "B": [
+        273
+      ],
+      "X": [
+        262
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1118": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        218
+      ],
+      "B": [
+        201
+      ],
+      "X": [
+        273
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1119": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        216
+      ],
+      "B": [
+        215
+      ],
+      "X": [
+        236
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1120": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        200
+      ],
+      "B": [
+        274
+      ],
+      "X": [
+        233
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1121": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        216
+      ],
+      "B": [
+        199
+      ],
+      "X": [
+        274
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1122": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        214
+      ],
+      "B": [
+        213
+      ],
+      "X": [
+        264
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1123": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        198
+      ],
+      "B": [
+        275
+      ],
+      "X": [
+        265
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1124": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        214
+      ],
+      "B": [
+        197
+      ],
+      "X": [
+        275
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1125": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        212
+      ],
+      "B": [
+        211
+      ],
+      "X": [
+        241
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1126": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        196
+      ],
+      "B": [
+        276
+      ],
+      "X": [
+        239
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1127": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        212
+      ],
+      "B": [
+        195
+      ],
+      "X": [
+        276
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1128": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        210
+      ],
+      "B": [
+        209
+      ],
+      "X": [
+        267
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1129": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        193
+      ],
+      "B": [
+        277
+      ],
+      "X": [
+        268
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1130": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        210
+      ],
+      "B": [
+        191
+      ],
+      "X": [
+        277
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1131": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        208
+      ],
+      "B": [
+        207
+      ],
+      "X": [
+        246
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1132": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        189
+      ],
+      "B": [
+        278
+      ],
+      "X": [
+        244
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1133": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        208
+      ],
+      "B": [
+        187
+      ],
+      "X": [
+        278
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1134": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        206
+      ],
+      "B": [
+        205
+      ],
+      "X": [
+        272
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1135": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        185
+      ],
+      "B": [
+        279
+      ],
+      "X": [
+        270
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1136": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        206
+      ],
+      "B": [
+        183
+      ],
+      "X": [
+        279
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1137": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        197
+      ],
+      "B": [
+        223
+      ],
+      "X": [
+        280
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1138": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        181
+      ],
+      "B": [
+        281
+      ],
+      "X": [
+        231
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1139": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        204
+      ],
+      "B": [
+        282
+      ],
+      "X": [
+        281
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1140": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        179
+      ],
+      "B": [
+        283
+      ],
+      "X": [
+        282
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1141": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        203
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        283
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1183": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        38
+      ],
+      "B": [
+        284
+      ],
+      "X": [
+        285
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1184": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        42
+      ],
+      "B": [
+        286
+      ],
+      "X": [
+        287
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1186": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        288
+      ],
+      "B": [
+        286
+      ],
+      "X": [
+        289
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1187": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        46
+      ],
+      "B": [
+        289
+      ],
+      "X": [
+        290
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1195": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        291
+      ],
+      "B": [
+        284
+      ],
+      "X": [
+        286
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1199": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        44
+      ],
+      "B": [
+        42
+      ],
+      "X": [
+        288
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1202": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        40
+      ],
+      "B": [
+        38
+      ],
+      "X": [
+        291
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1207": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        36
+      ],
+      "B": [
+        34
+      ],
+      "X": [
+        284
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1250": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        38
+      ],
+      "B": [
+        292
+      ],
+      "X": [
+        293
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1251": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        294
+      ],
+      "B": [
+        295
+      ],
+      "X": [
+        292
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1252": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        167
+      ],
+      "B": [
+        296
+      ],
+      "X": [
+        297
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1253": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        298
+      ],
+      "B": [
+        299
+      ],
+      "X": [
+        300
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1254": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        301
+      ],
+      "B": [
+        296
+      ],
+      "X": [
+        299
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1255": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        170
+      ],
+      "B": [
+        300
+      ],
+      "X": [
+        302
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1261": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        46
+      ],
+      "B": [
+        302
+      ],
+      "X": [
+        303
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1262": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        304
+      ],
+      "B": [
+        305
+      ],
+      "X": [
+        296
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1263": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        306
+      ],
+      "B": [
+        295
+      ],
+      "X": [
+        305
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1264": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        169
+      ],
+      "B": [
+        170
+      ],
+      "X": [
+        307
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1267": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        168
+      ],
+      "B": [
+        167
+      ],
+      "X": [
+        301
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1268": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        44
+      ],
+      "B": [
+        308
+      ],
+      "X": [
+        298
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1269": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        168
+      ],
+      "B": [
+        42
+      ],
+      "X": [
+        308
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1270": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        166
+      ],
+      "B": [
+        294
+      ],
+      "X": [
+        306
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1271": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        40
+      ],
+      "B": [
+        309
+      ],
+      "X": [
+        304
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1272": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        166
+      ],
+      "B": [
+        38
+      ],
+      "X": [
+        309
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1273": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        42
+      ],
+      "B": [
+        297
+      ],
+      "X": [
+        310
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1274": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        36
+      ],
+      "B": [
+        311
+      ],
+      "X": [
+        295
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$1275": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        312
+      ],
+      "B": [
+        34
+      ],
+      "X": [
+        311
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$301": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        50
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        178
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$302": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        52
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        180
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$303": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        54
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        182
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$304": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        56
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        184
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$305": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        58
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        186
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$306": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        60
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        188
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$307": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        62
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        190
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$308": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        64
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        192
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$503": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        153
+      ],
+      "B": [
+        313
+      ],
+      "X": [
+        314
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$515": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        20
+      ],
+      "B": [
+        315
+      ],
+      "X": [
+        316
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$758": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        203
+      ],
+      "B": [
+        194
+      ],
+      "X": [
+        317
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$759": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        204
+      ],
+      "B": [
+        282
+      ],
+      "X": [
+        318
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$760": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        205
+      ],
+      "B": [
+        231
+      ],
+      "X": [
+        319
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$761": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        206
+      ],
+      "B": [
+        230
+      ],
+      "X": [
+        320
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$762": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        207
+      ],
+      "B": [
+        226
+      ],
+      "X": [
+        321
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$763": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        208
+      ],
+      "B": [
+        225
+      ],
+      "X": [
+        322
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$764": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        209
+      ],
+      "B": [
+        221
+      ],
+      "X": [
+        323
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$765": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        210
+      ],
+      "B": [
+        220
+      ],
+      "X": [
+        324
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$766": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        211
+      ],
+      "B": [
+        242
+      ],
+      "X": [
+        325
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$767": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        212
+      ],
+      "B": [
+        238
+      ],
+      "X": [
+        326
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$768": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        213
+      ],
+      "B": [
+        222
+      ],
+      "X": [
+        327
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$769": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        214
+      ],
+      "B": [
+        280
+      ],
+      "X": [
+        328
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$770": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        215
+      ],
+      "B": [
+        227
+      ],
+      "X": [
+        329
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$771": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        216
+      ],
+      "B": [
+        232
+      ],
+      "X": [
+        330
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$772": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        217
+      ],
+      "B": [
+        235
+      ],
+      "X": [
+        331
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$773": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        218
+      ],
+      "B": [
+        247
+      ],
+      "X": [
+        332
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$900": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        36
+      ],
+      "B": [
+        34
+      ],
+      "X": [
+        333
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$901": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        38
+      ],
+      "B": [
+        284
+      ],
+      "X": [
+        334
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$902": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        40
+      ],
+      "B": [
+        285
+      ],
+      "X": [
+        335
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$903": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        42
+      ],
+      "B": [
+        286
+      ],
+      "X": [
+        336
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$904": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        44
+      ],
+      "B": [
+        287
+      ],
+      "X": [
+        337
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$905": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        46
+      ],
+      "B": [
+        289
+      ],
+      "X": [
+        338
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$906": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        48
+      ],
+      "B": [
+        290
+      ],
+      "X": [
+        339
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$966": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        312
+      ],
+      "B": [
+        34
+      ],
+      "X": [
+        340
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$967": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        294
+      ],
+      "B": [
+        295
+      ],
+      "X": [
+        341
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$968": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        166
+      ],
+      "B": [
+        293
+      ],
+      "X": [
+        342
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$969": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        167
+      ],
+      "B": [
+        296
+      ],
+      "X": [
+        343
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$970": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        168
+      ],
+      "B": [
+        310
+      ],
+      "X": [
+        344
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$971": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        170
+      ],
+      "B": [
+        300
+      ],
+      "X": [
+        345
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:106:simplemap_bitop$972": {
+    "cell": "sky130_fd_sc_hd__xor2_1",
+    "connections": {
+      "A": [
+        169
+      ],
+      "B": [
+        303
+      ],
+      "X": [
+        346
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$321": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        311
+      ],
+      "B": [
+        306
+      ],
+      "X": [
+        347
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$322": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        301
+      ],
+      "B": [
+        307
+      ],
+      "X": [
+        348
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$324": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        347
+      ],
+      "B": [
+        348
+      ],
+      "X": [
+        349
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$329": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        174
+      ],
+      "B": [
+        350
+      ],
+      "X": [
+        351
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$331": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        20
+      ],
+      "B": [
+        28
+      ],
+      "X": [
+        352
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$333": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        351
+      ],
+      "B": [
+        353
+      ],
+      "X": [
+        354
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$335": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        354
+      ],
+      "B": [
+        352
+      ],
+      "X": [
+        154
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$341": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        355
+      ],
+      "B": [
+        356
+      ],
+      "X": [
+        357
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$342": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        358
+      ],
+      "B": [
+        359
+      ],
+      "X": [
+        360
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$343": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        361
+      ],
+      "B": [
+        28
+      ],
+      "X": [
+        362
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$345": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        357
+      ],
+      "B": [
+        360
+      ],
+      "X": [
+        363
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$347": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        363
+      ],
+      "B": [
+        362
+      ],
+      "X": [
+        139
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$349": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        26
+      ],
+      "B": [
+        153
+      ],
+      "X": [
+        364
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$351": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        364
+      ],
+      "B": [
+        365
+      ],
+      "X": [
+        355
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$359": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        177
+      ],
+      "B": [
+        176
+      ],
+      "X": [
+        366
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$361": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        366
+      ],
+      "B": [
+        253
+      ],
+      "X": [
+        356
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$363": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        20
+      ],
+      "B": [
+        26
+      ],
+      "X": [
+        358
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$370": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        174
+      ],
+      "B": [
+        26
+      ],
+      "X": [
+        359
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$377": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        175
+      ],
+      "B": [
+        26
+      ],
+      "X": [
+        361
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$387": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        175
+      ],
+      "B": [
+        176
+      ],
+      "X": [
+        353
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$388": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        19
+      ],
+      "B": [
+        28
+      ],
+      "X": [
+        367
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$390": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        353
+      ],
+      "B": [
+        367
+      ],
+      "X": [
+        130
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$401": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        368
+      ],
+      "B": [
+        369
+      ],
+      "X": [
+        370
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$402": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        371
+      ],
+      "B": [
+        372
+      ],
+      "X": [
+        373
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$404": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        370
+      ],
+      "B": [
+        373
+      ],
+      "X": [
+        374
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$406": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        374
+      ],
+      "B": [
+        28
+      ],
+      "X": [
+        100
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$411": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        375
+      ],
+      "B": [
+        350
+      ],
+      "X": [
+        376
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$413": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        376
+      ],
+      "B": [
+        377
+      ],
+      "X": [
+        368
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$422": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        18
+      ],
+      "B": [
+        26
+      ],
+      "X": [
+        375
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$423": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        313
+      ],
+      "B": [
+        378
+      ],
+      "X": [
+        379
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$425": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        375
+      ],
+      "B": [
+        379
+      ],
+      "X": [
+        369
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$427": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        18
+      ],
+      "B": [
+        20
+      ],
+      "X": [
+        380
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$429": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        380
+      ],
+      "B": [
+        26
+      ],
+      "X": [
+        371
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$437": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        18
+      ],
+      "B": [
+        174
+      ],
+      "X": [
+        381
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$439": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        381
+      ],
+      "B": [
+        26
+      ],
+      "X": [
+        372
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$457": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        176
+      ],
+      "B": [
+        380
+      ],
+      "X": [
+        382
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$458": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        381
+      ],
+      "B": [
+        28
+      ],
+      "X": [
+        383
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$460": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        382
+      ],
+      "B": [
+        383
+      ],
+      "X": [
+        162
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$475": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        66
+      ],
+      "B": [
+        68
+      ],
+      "X": [
+        384
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$476": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        70
+      ],
+      "B": [
+        72
+      ],
+      "X": [
+        385
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$477": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        74
+      ],
+      "B": [
+        76
+      ],
+      "X": [
+        386
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$478": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        78
+      ],
+      "B": [
+        80
+      ],
+      "X": [
+        387
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$480": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        384
+      ],
+      "B": [
+        385
+      ],
+      "X": [
+        388
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$481": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        386
+      ],
+      "B": [
+        387
+      ],
+      "X": [
+        389
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$483": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        388
+      ],
+      "B": [
+        389
+      ],
+      "X": [
+        390
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$552": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        173
+      ],
+      "B": [
+        172
+      ],
+      "X": [
+        378
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$676": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        21
+      ],
+      "B": [
+        172
+      ],
+      "X": [
+        391
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$689": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        173
+      ],
+      "B": [
+        22
+      ],
+      "X": [
+        392
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:157:simplemap_reduce$693": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        393
+      ],
+      "B": [
+        394
+      ],
+      "X": [
+        377
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$485": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        50
+      ],
+      "B": [
+        52
+      ],
+      "X": [
+        395
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$486": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        54
+      ],
+      "B": [
+        56
+      ],
+      "X": [
+        396
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$487": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        58
+      ],
+      "B": [
+        60
+      ],
+      "X": [
+        397
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$488": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        62
+      ],
+      "B": [
+        64
+      ],
+      "X": [
+        398
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$490": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        395
+      ],
+      "B": [
+        396
+      ],
+      "X": [
+        399
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$491": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        397
+      ],
+      "B": [
+        398
+      ],
+      "X": [
+        400
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$493": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        399
+      ],
+      "B": [
+        400
+      ],
+      "X": [
+        401
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$513": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        402
+      ],
+      "B": [
+        403
+      ],
+      "X": [
+        404
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$556": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        153
+      ],
+      "B": [
+        365
+      ],
+      "X": [
+        350
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:198:logic_reduce$680": {
+    "cell": "sky130_fd_sc_hd__or2_1",
+    "connections": {
+      "A": [
+        21
+      ],
+      "B": [
+        22
+      ],
+      "X": [
+        405
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:227:simplemap_lognot$494": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        401
+      ],
+      "Y": [
+        313
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:227:simplemap_lognot$554": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        378
+      ],
+      "Y": [
+        153
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:227:simplemap_lognot$678": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        391
+      ],
+      "Y": [
+        365
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:227:simplemap_lognot$681": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        405
+      ],
+      "Y": [
+        393
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:227:simplemap_lognot$691": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        392
+      ],
+      "Y": [
+        394
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$473": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        21
+      ],
+      "B": [
+        32
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        194
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$495": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        66
+      ],
+      "B": [
+        82
+      ],
+      "S": [
+        23
+      ],
+      "X": [
+        10
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$496": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        68
+      ],
+      "B": [
+        84
+      ],
+      "S": [
+        23
+      ],
+      "X": [
+        11
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$497": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        70
+      ],
+      "B": [
+        86
+      ],
+      "S": [
+        23
+      ],
+      "X": [
+        12
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$498": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        72
+      ],
+      "B": [
+        88
+      ],
+      "S": [
+        23
+      ],
+      "X": [
+        13
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$499": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        74
+      ],
+      "B": [
+        90
+      ],
+      "S": [
+        23
+      ],
+      "X": [
+        14
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$500": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        76
+      ],
+      "B": [
+        92
+      ],
+      "S": [
+        23
+      ],
+      "X": [
+        15
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$501": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        78
+      ],
+      "B": [
+        94
+      ],
+      "S": [
+        23
+      ],
+      "X": [
+        16
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$502": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        80
+      ],
+      "B": [
+        96
+      ],
+      "S": [
+        23
+      ],
+      "X": [
+        17
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$504": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        314
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        161
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$516": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        316
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        19
+      ],
+      "X": [
+        406
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$517": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        406
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        407
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$519": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        408
+      ],
+      "B": [
+        253
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        409
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$520": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        407
+      ],
+      "B": [
+        409
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        164
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$521": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        66
+      ],
+      "S": [
+        378
+      ],
+      "X": [
+        410
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$522": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        68
+      ],
+      "S": [
+        378
+      ],
+      "X": [
+        411
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$523": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        70
+      ],
+      "S": [
+        378
+      ],
+      "X": [
+        412
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$524": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        72
+      ],
+      "S": [
+        378
+      ],
+      "X": [
+        413
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$525": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        74
+      ],
+      "S": [
+        378
+      ],
+      "X": [
+        414
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$526": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        76
+      ],
+      "S": [
+        378
+      ],
+      "X": [
+        415
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$527": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        78
+      ],
+      "S": [
+        378
+      ],
+      "X": [
+        416
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$528": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        80
+      ],
+      "S": [
+        378
+      ],
+      "X": [
+        417
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$529": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        171
+      ],
+      "B": [
+        171
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        418
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$530": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        340
+      ],
+      "B": [
+        333
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        419
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$531": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        341
+      ],
+      "B": [
+        334
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        420
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$532": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        342
+      ],
+      "B": [
+        335
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        421
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$533": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        343
+      ],
+      "B": [
+        336
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        422
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$534": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        344
+      ],
+      "B": [
+        337
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        423
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$535": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        345
+      ],
+      "B": [
+        338
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        424
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$536": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        346
+      ],
+      "B": [
+        339
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        425
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$537": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        410
+      ],
+      "B": [
+        418
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        151
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$538": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        411
+      ],
+      "B": [
+        419
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        149
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$539": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        412
+      ],
+      "B": [
+        420
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        147
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$540": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        413
+      ],
+      "B": [
+        421
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        145
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$541": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        414
+      ],
+      "B": [
+        422
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        143
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$542": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        415
+      ],
+      "B": [
+        423
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        141
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$543": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        416
+      ],
+      "B": [
+        424
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        138
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$544": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        417
+      ],
+      "B": [
+        425
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        156
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$694": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        426
+      ],
+      "B": [
+        2
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        427
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$695": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        428
+      ],
+      "B": [
+        3
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        429
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$696": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        430
+      ],
+      "B": [
+        4
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        431
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$697": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        432
+      ],
+      "B": [
+        5
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        433
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$698": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        434
+      ],
+      "B": [
+        6
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        435
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$699": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        436
+      ],
+      "B": [
+        7
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        437
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$700": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        438
+      ],
+      "B": [
+        8
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        439
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$701": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        440
+      ],
+      "B": [
+        9
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        441
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$702": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        442
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        443
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$703": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        444
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        445
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$704": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        446
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        447
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$705": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        448
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        449
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$706": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        450
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        451
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$707": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        452
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        453
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$708": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        454
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        455
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$709": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        456
+      ],
+      "B": [
+        "0"
+      ],
+      "S": [
+        18
+      ],
+      "X": [
+        457
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$710": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        34
+      ],
+      "B": [
+        317
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        458
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$711": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        36
+      ],
+      "B": [
+        318
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        459
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$712": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        38
+      ],
+      "B": [
+        319
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        460
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$713": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        40
+      ],
+      "B": [
+        320
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        461
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$714": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        42
+      ],
+      "B": [
+        321
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        462
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$715": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        44
+      ],
+      "B": [
+        322
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        463
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$716": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        46
+      ],
+      "B": [
+        323
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        464
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$717": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        48
+      ],
+      "B": [
+        324
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        465
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$718": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        325
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        466
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$719": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        326
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        467
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$720": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        327
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        468
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$721": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        328
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        469
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$722": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        329
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        470
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$723": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        330
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        471
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$724": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        331
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        472
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$725": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        332
+      ],
+      "S": [
+        253
+      ],
+      "X": [
+        473
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$726": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        317
+      ],
+      "B": [
+        458
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        474
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$727": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        318
+      ],
+      "B": [
+        459
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        475
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$728": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        319
+      ],
+      "B": [
+        460
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        476
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$729": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        320
+      ],
+      "B": [
+        461
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        477
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$730": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        321
+      ],
+      "B": [
+        462
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        478
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$731": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        322
+      ],
+      "B": [
+        463
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        479
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$732": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        323
+      ],
+      "B": [
+        464
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        480
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$733": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        324
+      ],
+      "B": [
+        465
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        481
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$734": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        325
+      ],
+      "B": [
+        466
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        482
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$735": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        326
+      ],
+      "B": [
+        467
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        483
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$736": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        327
+      ],
+      "B": [
+        468
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        484
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$737": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        328
+      ],
+      "B": [
+        469
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        485
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$738": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        329
+      ],
+      "B": [
+        470
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        486
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$739": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        330
+      ],
+      "B": [
+        471
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        487
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$740": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        331
+      ],
+      "B": [
+        472
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        488
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$741": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        332
+      ],
+      "B": [
+        473
+      ],
+      "S": [
+        32
+      ],
+      "X": [
+        489
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$742": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        427
+      ],
+      "B": [
+        474
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        128
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$743": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        429
+      ],
+      "B": [
+        475
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        126
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$744": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        431
+      ],
+      "B": [
+        476
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        124
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$745": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        433
+      ],
+      "B": [
+        477
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        122
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$746": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        435
+      ],
+      "B": [
+        478
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        120
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$747": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        437
+      ],
+      "B": [
+        479
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        118
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$748": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        439
+      ],
+      "B": [
+        480
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        116
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$749": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        441
+      ],
+      "B": [
+        481
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        114
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$750": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        443
+      ],
+      "B": [
+        482
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        112
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$751": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        445
+      ],
+      "B": [
+        483
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        110
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$752": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        447
+      ],
+      "B": [
+        484
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        108
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$753": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        449
+      ],
+      "B": [
+        485
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        106
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$754": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        451
+      ],
+      "B": [
+        486
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        104
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$755": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        453
+      ],
+      "B": [
+        487
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        102
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$756": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        455
+      ],
+      "B": [
+        488
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        99
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:298:simplemap_mux$757": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        457
+      ],
+      "B": [
+        489
+      ],
+      "S": [
+        26
+      ],
+      "X": [
+        159
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:460:simplemap_pmux$508": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        401
+      ],
+      "B": [
+        153
+      ],
+      "X": [
+        402
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:460:simplemap_pmux$510": {
+    "cell": "sky130_fd_sc_hd__and2_1",
+    "connections": {
+      "A": [
+        390
+      ],
+      "B": [
+        365
+      ],
+      "X": [
+        403
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:46:simplemap_not$518": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        349
+      ],
+      "Y": [
+        408
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:46:simplemap_not$958": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        36
+      ],
+      "Y": [
+        312
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:46:simplemap_not$959": {
+    "cell": "sky130_fd_sc_hd__inv_1",
+    "connections": {
+      "A": [
+        38
+      ],
+      "Y": [
+        294
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$514": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        "0"
+      ],
+      "B": [
+        404
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        315
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$563": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        317
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        426
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$570": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        318
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        428
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$577": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        319
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        430
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$584": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        320
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        432
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$591": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        321
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        434
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$598": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        322
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        436
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$605": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        323
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        438
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$612": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        324
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        440
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$619": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        325
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        442
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$626": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        326
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        444
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$633": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        327
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        446
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$640": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        328
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        448
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$647": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        329
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        450
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$654": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        330
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        452
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$661": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        331
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        454
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  },
+  "$auto$simplemap.cc:474:simplemap_pmux$668": {
+    "cell": "sky130_fd_sc_hd__mux2_1",
+    "connections": {
+      "A": [
+        332
+      ],
+      "B": [
+        153
+      ],
+      "S": [
+        350
+      ],
+      "X": [
+        456
+      ],
+      "VPWR": [
+        "VPWR"
+      ],
+      "VGND": [
+        "VGND"
+      ],
+      "VPB": [
+        "VPWR"
+      ],
+      "VNB": [
+        "VGND"
+      ]
+    }
+  }
+}
