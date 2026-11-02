@@ -1,13 +1,17 @@
-name: exhaustive generic-gate verification
+name: mascot RTL synthesis check
 on: [push, workflow_dispatch]
 jobs:
-  exhaustive:
+  synthesis:
     runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v6
-      - run: sudo apt-get update && sudo apt-get install -y yosys g++
-      - run: mkdir -p build && yosys -s scripts/synth.ys > build/synth.log && python scripts/gate_test.py
+      - name: Install Yosys
+        run: sudo apt-get update && sudo apt-get install -y yosys
+      - name: Read and synthesize current VGA top
+        run: |
+          mkdir -p build
+          yosys -p 'read_verilog src/project.v; hierarchy -check -top tt_um_skypiggy8_nailong; synth -top tt_um_skypiggy8_nailong; stat' | tee build/synthesis.txt
       - uses: actions/upload-artifact@v7
         with:
-          name: exhaustive-verification
-          path: build/verification.txt
+          name: mascot-rtl-synthesis
+          path: build/synthesis.txt
