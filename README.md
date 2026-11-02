@@ -1,16 +1,14 @@
-# TinyCalc-TT — Calculator + Yellow Mascot VGA
+# TinyCalc-TT — Nai Wa VGA + 8-bit Calculator
 
-Experimental SKY130 Tiny Tapeout **two-function ASIC**. A simple yellow mascot VGA picture is generated continuously, while a sequential 8-bit arithmetic engine calculates addition, subtraction, multiplication and unsigned division.
+Experimental dual-function Tiny Tapeout SKY130 ASIC: generate a yellow-mascot VGA picture **and** calculate 8-bit addition, subtraction, multiplication, and integer division in parallel.
 
-## What is implemented
-- VGA timing for 640x480 @ 25.175 MHz and a **procedural approximation**, not an exact bitmap, of the supplied yellow character
-- Unsigned 8-bit operands, 16-bit result
-- Four arithmetic functions, using a shared add/subtract datapath
-- Tiny Tapeout standard `src/project.v`, `info.yaml`, `test/`, `docs/`, `.github/workflows/`
+- VGA: fixed procedural drawing on `uo_out[7:0]`, nominal 640x480 @ 25.175 MHz via TinyVGA PMOD.
+- Calculator: 8-bit inputs, 16-bit outputs, shared sequential adder. `ui_in` takes operands; `uio[5:0]` receive control inputs; `uio[6:7]` output BUSY and serialized result/DIVZERO.
+- The two features operate **at the same time**, with no VGA / calculator mode switching required.
+- `info.yaml` is configured for a **trial `1x1` tile**, not an independently proven physical fit.
 
-## Status: not ready for manufacturing
-The design has been combined and pushed for testing with **1x1 tile as an experimental area target**. The selected tile size is **not yet verified to fit** and the existing calculator input/output sharing scheme has an **electrical bus contention issue** (see [docs/info.md](docs/info.md)). Do not connect control signals to physical uio pins until the interface is redesigned and tested.
+**Not tapeout-ready:** RTL has been uploaded but no confirmed placement/routing, area, timing, DRC/LVS or Tiny Tapeout precheck pass is available. The mascot uses simplified geometry, **not** an exact reproduction of the user's source image.
 
-The exact user image is not yet reproduced. This early design uses shapes and colors rather than a detailed pixel ROM.
+See [docs/info.md](docs/info.md) for the complete pinout and step-by-step use. Standard Tiny Tapeout structure: `info.yaml`, `src/project.v`, `test/`, `docs/`, `.github/workflows/`.
 
-See [docs/info.md](docs/info.md) for logic behavior and limitations. See the official [Tiny Tapeout Verilog template](https://github.com/TinyTapeout/ttsky-verilog-template).
+Template: https://github.com/TinyTapeout/ttsky-verilog-template
