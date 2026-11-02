@@ -10,8 +10,7 @@ module tt_um_skypiggy8_nailong(
  // uio_in[0] LOAD_A, [1] LOAD_B, [2] START, [4:3] op,
  // [5] high-byte select. uio_out[5:0] = selected result
  // byte low six bits, uio_out[7] DIVZERO, [6] BUSY.
- // For full 8-bit result, uio_out[7:6] are reserved for status:
- // read bits 7:6 using uio_in[5] with a serial read bank on uio_in[6].
+ // For full 8-bit result, set ui_in[7]=1 during read to expose bits [7:6].
  reg [15:0] acc;
  reg [7:0] rhs, count;
  reg divide, busy, divzero;
@@ -104,8 +103,8 @@ module tt_um_skypiggy8_nailong(
  // RGB bits ordered {R[1:0], G[1:0], B[1:0]}.
  assign uo_out={hs,rgb[0],rgb[2],rgb[4],vs,rgb[1],rgb[3],rgb[5]};
  // uio[5:0] returns result bits [5:0]. uio[7:6] normally status,
- // but when uio_in[6]=1, return result[7:6] there.
- assign uio_out={uio_in[6] ? result_byte[7:6] : {divzero,busy}, result_byte[5:0]};
+ // but when ui_in[7]=1, return result[7:6] there.
+ assign uio_out={ui_in[7] ? result_byte[7:6] : {divzero,busy}, result_byte[5:0]};
  assign uio_oe=8'hff;
  wire _unused=&{uio_in[7],1'b0};
 endmodule
