@@ -6,6 +6,47 @@ module tt_um_skypiggy8_nailong(
  input wire [7:0] uio_in, output wire [7:0] uio_out,
  output wire [7:0] uio_oe, input wire ena, clk, rst_n
 );
+ // Calculator interface: ui_in = 8-bit operand data.
+ // uio_in[0] LOAD_A, [1] LOAD_B, [2] START, [4:3] op,
+ // [5] high-byte select. uio_out[5:0] = selected result
+ // byte low six bits, uio_out[7] DIVZERO, [6] BUSY.
+ // For full 8-bit result, uio_out[7:6] are reserved for status:
+ // read bits 7:6 using uio_in[5] with a serial read bank on uio_in[6].
+ reg [15:0] acc;
+ reg [7:0] rhs, count;
+ reg divide, busy, divzero;
+ wire sub = busy ? divide : uio_in[3];
+ wire [15:0] oper = {8'b0,rhs};
+ wire [16:0] sum = {1'b0,acc} + {1'b0,(oper ^ {16{sub}})} + {16'b0,sub};
+ always @(posedge clk) begin
+  if (!rst_n) begin
+   acc<=0; rhs<=0; count<=0; divide<=0; busy<=0; divzero<=0;
+  end else if(ena) begin
+   if(busy) begin
+    if(divide) begin
+     if(sum[16]) begin acc<=sum[15:0]; count<=count+1'b1; end
+     else begin acc<={8'b0,count};busy<=0;end
+    end else begin
+     acc<=sum[15:0];count<=count-1'b1;
+     if(count==1) busy<=0;
+    end
+   end else if(uio_in[0]) begin acc<={8'b0,ui_in};divzero<=0;end
+   else if(uio_in[1]) rhs<=ui_in;
+   else if(uio_in[2]) begin
+    divzero<=0;
+    case(uio_in[4:3])
+     2'b00,2'b01: acc<=sum[15:0];
+     2'b10: begin count<=acc[7:0];acc<=0;divide<=0;busy<=|acc[7:0];end
+     2'b11: begin
+       count<=0;divide<=1;
+       if(rhs==0) begin acc<=16'hffff;divzero<=1;end
+       else busy<=1;
+     end
+    endcase
+   end
+  end
+ end
+ wire [7:0] result_byte = uio_in[5] ? acc[15:8] : acc[7:0];
  reg [9:0] x, y;
  always @(posedge clk) begin
   if (!rst_n) begin x <= 0; y <= 0; end
@@ -62,8 +103,10 @@ module tt_um_skypiggy8_nailong(
  end
  // RGB bits ordered {R[1:0], G[1:0], B[1:0]}.
  assign uo_out={hs,rgb[0],rgb[2],rgb[4],vs,rgb[1],rgb[3],rgb[5]};
- assign uio_out=8'b0;
- assign uio_oe=8'b0;
- wire _unused=&{ui_in,uio_in,1'b0};
+ // uio[5:0] returns result bits [5:0]. uio[7:6] normally status,
+ // but when uio_in[6]=1, return result[7:6] there.
+ assign uio_out={uio_in[6] ? result_byte[7:6] : {divzero,busy}, result_byte[5:0]};
+ assign uio_oe=8'hff;
+ wire _unused=&{uio_in[7],1'b0};
 endmodule
 `default_nettype wire
