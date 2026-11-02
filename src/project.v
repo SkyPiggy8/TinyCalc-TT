@@ -6,11 +6,11 @@ module tt_um_skypiggy8_nailong(
  input wire [7:0] uio_in, output wire [7:0] uio_out,
  output wire [7:0] uio_oe, input wire ena, clk, rst_n
 );
- // Calculator interface: ui_in = 8-bit operand data.
- // uio_in[0] LOAD_A, [1] LOAD_B, [2] START, [4:3] op,
- // [5] high-byte select. uio_out[5:0] = selected result
- // byte low six bits, uio_out[7] DIVZERO, [6] BUSY.
- // For full 8-bit result, set ui_in[7]=1 during read to expose bits [7:6].
+ // Calculator: ui_in is an 8-bit operand on LOAD pulses.
+ // uio_in[0] LOAD_A, [1] LOAD_B, [2] START, [4:3] OP.
+ // uio_out[6] BUSY, [7] serial data bit; uio_oe=8'b11000000.
+ // Read result via ui_in[3]=0, ui_in[4] byte, ui_in[2:0] bit-index.
+ // Read DIVZERO via ui_in[3]=1 (on uio_out[7]).
  reg [15:0] acc;
  reg [7:0] rhs, count;
  reg divide, busy, divzero;
@@ -45,7 +45,8 @@ module tt_um_skypiggy8_nailong(
    end
   end
  end
- wire [7:0] result_byte = uio_in[5] ? acc[15:8] : acc[7:0];
+ wire [7:0] result_byte = ui_in[4] ? acc[15:8] : acc[7:0];
+ wire serial_data = ui_in[3] ? divzero : result_byte[ui_in[2:0]];
  reg [9:0] x, y;
  always @(posedge clk) begin
   if (!rst_n) begin x <= 0; y <= 0; end
@@ -102,10 +103,8 @@ module tt_um_skypiggy8_nailong(
  end
  // RGB bits ordered {R[1:0], G[1:0], B[1:0]}.
  assign uo_out={hs,rgb[0],rgb[2],rgb[4],vs,rgb[1],rgb[3],rgb[5]};
- // uio[5:0] returns result bits [5:0]. uio[7:6] normally status,
- // but when ui_in[7]=1, return result[7:6] there.
- assign uio_out={ui_in[7] ? result_byte[7:6] : {divzero,busy}, result_byte[5:0]};
- assign uio_oe=8'hff;
- wire _unused=&{uio_in[7],1'b0};
+ assign uio_out={serial_data,busy,6'b0};
+ assign uio_oe=8'b11000000;
+ wire _unused=&{uio_in[7:5],1'b0};
 endmodule
 `default_nettype wire
