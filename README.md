@@ -1,26 +1,16 @@
-# TinyCalc-TT — Yellow Mascot VGA ASIC
+# TinyCalc-TT — Calculator + Yellow Mascot VGA
 
-Tiny Tapeout SKY130 Verilog project displaying a simplified pixel-art interpretation of the supplied yellow character on a VGA monitor.
+Experimental SKY130 Tiny Tapeout **two-function ASIC**. A simple yellow mascot VGA picture is generated continuously, while a sequential 8-bit arithmetic engine calculates addition, subtraction, multiplication and unsigned division.
 
-**This is a first working RTL draft, not yet a verified GDS/tapeout-ready design.** The original reference image has not been converted to an exact ROM sprite; this implementation draws a compact procedural approximation to keep silicon usage low.
+## What is implemented
+- VGA timing for 640x480 @ 25.175 MHz and a **procedural approximation**, not an exact bitmap, of the supplied yellow character
+- Unsigned 8-bit operands, 16-bit result
+- Four arithmetic functions, using a shared add/subtract datapath
+- Tiny Tapeout standard `src/project.v`, `info.yaml`, `test/`, `docs/`, `.github/workflows/`
 
-## Official Tiny Tapeout layout
+## Status: not ready for manufacturing
+The design has been combined and pushed for testing with **1x1 tile as an experimental area target**. The selected tile size is **not yet verified to fit** and the existing calculator input/output sharing scheme has an **electrical bus contention issue** (see [docs/info.md](docs/info.md)). Do not connect control signals to physical uio pins until the interface is redesigned and tested.
 
-- `info.yaml`: project, pinout, tiles and top-module metadata
-- `src/project.v`: synthesizable VGA timing and character renderer
-- `test/test.py` and `test/tb.v`: Cocotb interface checks
-- `docs/info.md`: operation, clock, connection and verification notes
-- `.github/workflows/`: Tiny Tapeout GDS, docs and simulation checks
+The exact user image is not yet reproduced. This early design uses shapes and colors rather than a detailed pixel ROM.
 
-## Video
-- 640x480, nominal 59.94 Hz, 25.175 MHz pixel clock provided externally
-- TinyVGA PMOD output with 2 bits per R/G/B channel
-- Fixed yellow mascot on white background
-- No CPU, frame buffer or external RAM
-
-## Status
-Workflows must pass before submitting to https://app.tinytapeout.com/projects/create . Selected tile size `1x2` is an estimate, **not validated** by place/route or precheck.
-
-Previous calculator RTL and physical layout are retained elsewhere in the repository as historical experiments; they are **not** the active Tiny Tapeout design.
-
-Source template: https://github.com/TinyTapeout/ttsky-verilog-template
+See [docs/info.md](docs/info.md) for logic behavior and limitations. See the official [Tiny Tapeout Verilog template](https://github.com/TinyTapeout/ttsky-verilog-template).
