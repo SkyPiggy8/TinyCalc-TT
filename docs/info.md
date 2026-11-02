@@ -1,21 +1,22 @@
-# Dual-function Tiny Tapeout ASIC: VGA + 8-bit calculator
+# TinyCalc + Nai Wa VGA: how to use
 
-## VGA
-640x480 / 25.175 MHz external pixel clock. Fixed geometric mascot graphic on uo_out through a TinyVGA PMOD. VGA runs **at the same time as the calculator**; it is not a selectable exclusive mode.
+## Video output
+VGA runs continuously at 640x480, nominal 59.94 Hz with an external 25.175 MHz pixel clock. `uo_out[0:7]` follow TinyVGA PMOD pin ordering: R1, G1, B1, VSync, R0, G0, B0, HSync. A simplified yellow mascot is drawn with comparator-based geometry; it is not a pixel-perfect version of the reference artwork.
 
-## Calculator
-Unsigned 8-bit operands A and B; 16-bit result. Add/subtract/multiply/divide, with repeated addition/subtraction to avoid dedicated multipliers/dividers.
+## Calculator, simultaneously with VGA
+Inputs `ui_in[7:0]` carry full 8-bit operand values during load operations. The five control inputs are `uio_in[0]` LOAD_A, `[1]` LOAD_B, `[2]` START, `[4:3]` OP (00 add, 01 subtract, 10 multiply, 11 unsigned integer divide). All controls are sampled on a rising pixel-clock edge when `ena=1`.
 
-1. With rst_n low for at least one rising edge, reset the chip; then release reset and keep ena high.
-2. Set ui_in to A; pulse uio_in[0]=1 for one clock.
-3. Set ui_in to B; pulse uio_in[1]=1 for one clock.
-4. Put OP in uio_in[4:3]: 00 add, 01 subtract, 10 multiply, 11 integer divide. Pulse uio_in[2]=1 for one clock.
-5. With ui_in[7]=0, read uio_out[6]=BUSY and [7]=DIVZERO; wait for BUSY=0.
-6. Result readback has two banks. Choose low/high result byte with uio_in[5]. Read uio_out[5:0] as the lower six bits of that byte. To read the top two bits, set ui_in[7]=1 and take uio_out[7:6]. Then restore ui_in[7]=0 to see status.
-7. All uio pins are outputs when reading; the Tiny Tapeout host must safely drive command pins only if the I/O interface supports bidirectional handling. **The host and chip must never drive the same pin at the same time.**
+1. Reset with `rst_n=0` for at least one clock; release reset.
+2. Drive operand A on `ui_in`, pulse LOAD_A once.
+3. Drive operand B on `ui_in`, pulse LOAD_B once.
+4. Set OP and pulse START once.
+5. `uio_out[6]` is BUSY. Wait until 0. `uio_out[7]` is serial output.
+6. Read result one bit at a time: `ui_in[3]=0`, `ui_in[4]=0` for low byte or `1` for high byte, `ui_in[2:0]` selects bit 0 to 7. Read selected bit from `uio_out[7]`, concatenate all 16 bits.
+7. To read DIVZERO flag, set `ui_in[3]=1`, read `uio_out[7]`.
 
-## Important electrical limitation
-The minimal dual-function prototype reuses each uio pin as both a command input and a result output but sets uio_oe=0xff. That makes simultaneous external host driving unsafe on a standard board. This is an **experimental architecture**, not a safe final electrical interface. An external controller must not actively drive those pins until an input/output turnaround scheme has been implemented. The design requires an I/O redesign before hardware connection or tapeout submission.
+`uio_oe=8'b11000000` always: `uio[5:0]` are input-only; `uio[7:6]` are output-only. Never drive `uio[7:6]` externally. `ui_in[7:0]` values during read are only address/selection bits and do not alter operands unless a LOAD control is asserted.
 
-## Physical status
-1x1 is an exploratory target. The project must pass synth/place/route/GDS and precheck; no area or timing fit is claimed.
+The addition/subtraction result is 16-bit two's-complement for negative subtraction; division truncates; division by zero returns `0xffff` and flags DIVZERO. Multiply and divide take multiple clocks.
+
+## Manufacturing status
+The `1x1` SKY130 tile is an experimental target only. The implementation requires synthesis, timing analysis, physical routing, DRC/LVS and official Tiny Tapeout precheck before claiming tapeout readiness. Pixel-art fidelity to the supplied picture has not been established.
